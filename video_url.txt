@@ -1,0 +1,5 @@
+Player URL:
+https://git32max.github.io/player/?list=https://raw.githubusercontent.com/git32max/ff7648c996bf1580/refs/heads/master/github_playlist.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/git32max/ff7648c996bf1580/refs/heads/master/github_playlist.m3u8
